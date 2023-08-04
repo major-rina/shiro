@@ -1,0 +1,9 @@
+server:
+  port: 9099
+
+
+shiro:
+  loginUrl: /login.html
+  userNativeSessionManager: true
+  sessionManager:
+    sessionIdUrlRewritingEnabled: false
